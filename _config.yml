@@ -1,6 +1,12 @@
 title: Hank Stinklord
 description: Forever your girl
 remote_theme: pages-themes/dinky@v0.2.0
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
 plugins:
 - jekyll-remote-theme
 
