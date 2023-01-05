@@ -10,8 +10,14 @@
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="/spamnames.js"></script>
 
-<h3>About 20 years ago my Yahoo Mail account used to get several spam messages a day from these odd names. They really tickled my fancy, so I started collecting them.</h3>
+About 20 years ago my Yahoo Mail account used to get several spam messages a day from these odd names. They really tickled my fancy, so I started collecting them, and now I have about 4500 of them.
+
+--- 
+
 <h4>Hello from <div id="spam_name"></div></h4>
 
 
 <button id="another">Another!</button>
+
+<br>
+<a href="/">HOME</a>
