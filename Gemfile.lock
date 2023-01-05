@@ -255,7 +255,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 227)
-  jekyll
   webrick
 
 RUBY VERSION
