@@ -1,6 +1,6 @@
 ### Drummers By Whom I Have Been Intruiged
 
-These are in no particular order, except the top five; those are my favoritests.
+These are in no particular order, except the top five; those are my for-realzies top five.
 
 ---
 
@@ -82,5 +82,5 @@ These are in no particular order, except the top five; those are my favoritests.
 Drummers who I can't identify by name but have blown me away:
 * The drummer on C. W. McCall's songs "The Silverton", "Four Wheel Drive", "Wolf Creek Pass", "Classified"
 * Whoever played in Steve Miller Band on songs like "Swingtown", "Take the Money and Run", "The Joker" (Wikipedia says John King) 
-* 
+ 
 

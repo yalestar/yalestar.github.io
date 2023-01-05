@@ -2,9 +2,9 @@
 
 I moved from Denver to Portland in January of 2011 and started keeping a list of all of the restaurants I've eaten at. Why? Because I enjoy making lists. 
 
-I left out most national fast food chains like Burger King, etc. but kept in the quick casual like Chipotle.
+I left out most national fast food chains like Burger King, etc. but kept in the quick-casual chains like Chipotle. And I didn't bother keeping track of which Chipotle locations I visited.
 
-I had been keeping track of food carts too, but they're so ephemeral and whatever that I just stopped
+I had been keeping track of food carts too, but they're so ephemeral and whatever that I just stopped.
 
 ---
 

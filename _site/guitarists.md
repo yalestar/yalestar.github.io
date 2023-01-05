@@ -1,21 +1,22 @@
 ### Guitarists By Whom I Have Been Intruiged
 
-These are in no particular order, although Curt Kirkwood and D. Boon are indeed my two most favoritest.
+Here is a growing list of guitarists that have blown my mind at one time or another. They're in no particular order, although Curt Kirkwood and D. Boon are indeed my two most favoritest.
 
-In the case of some of them, I only listed the bands in which I was "into" them; for example, I _loved_ Brian Baker in Minor Threat and Dag Nasty, but I've never heard his stuff in Bad Religion
+In the case of some of them, I only listed the bands in which I was "into" them; for example, I _loved_ Brian Baker in **Minor Threat** and **Dag Nasty**, but I've never heard his stuff in **Bad Religion**. I really really like Nels Cline's solo stuff and especially the stuff he did with **Mike Watt**, but I haven't really dug into his **Wilco** work yet.
+
 ---
 
 1. Curt Kirkwood
 1. D. Boon
-1. Nels Cline
-1. Deke Dickerson
-1. Dr. Know
-1. Joe Baiza
+1. Nels Cline (various)
+1. Deke Dickerson (Untamed Youth/solo)
+1. Dr. Know (Bad Brains)
+1. Joe Baiza (Saccharine Trust)
 1. Eddie Van Halen
 1. Jimmy Page
 1. Jimi Hendrix
 1. Mark Knopfler
-1. Tom Verlaine
+1. Tom Verlaine (Television)
 1. Johnny Ramone
 1. Chuck Berry
 1. Ralph Spight (Victims Family)
@@ -87,12 +88,12 @@ In the case of some of them, I only listed the bands in which I was "into" them;
 1. John Fogerty
 1. Greg Ginn
 1. Tim Kerr (Big Boys)
-1. Billy Zoom
+1. Billy Zoom (X)
 1. Stevie Ray Vaughan
 1. Dave Gonzalez (Paladins)
 1. David Immergluck (Monks of Doom)
 1. Greg Lisher (Camper van Beethoven/Monks of Doom)
-1. Bob Mould
+1. Bob Mould (Hüsker Dü)
 1. Link Wray
 1. Reverend Horton Heat
 1. Trey Anastasio

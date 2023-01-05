@@ -1,6 +1,7 @@
-title: Hank Stinklord
+title: Yalestar
 description: Forever your girl
 remote_theme: pages-themes/dinky@v0.2.0
+show_downloads: false
 markdown: kramdown
 highlighter: rouge
 lsi: false
