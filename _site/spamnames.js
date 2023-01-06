@@ -55,7 +55,6 @@ var spamnames = ['Skitters T. Sensuously', 'Eaton V. Hieronymus', 'Patterns M. E
 'Abstainer O. Twaddle',
 'Abstemious K. Shoelace',
 'Abutments G. Spruced',
-'Abysses C. Shuttering',
 'Abysses J. Demolished',
 'Abyssinia A. Outstrips',
 'Abyssinian R. Borrows',
