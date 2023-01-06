@@ -11,8 +11,10 @@
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="/rvs.js"></script>
 
-<h4> Behold the <div id="rv_name"></div></h4>
 
+
+<h4> Behold the <div id="rv_name"></div></h4>
+<img id="rv-img" src="" />
 
 <button id="another">Another!</button>
 

@@ -12,15 +12,20 @@ var second = ['Chariot', 'Ambassador', 'Intruder', 'Wanderer', 'Desperado',
 'Angler', 'Hideout', 'Scamp', 'Prowler', 'Wildcat', 'Challenger', 'Conquest', 
 'Avenger', 'Rampage', 'Scout', 'Hunter', 'Bounder', "Cruis'r"];
 
+var imgs = ["rvs/rv1.png", "rvs/rv10.png", "rvs/rv11.png", "rvs/rv12.png", "rvs/rv13.png", "rvs/rv14.png", "rvs/rv2.png", "rvs/rv3.png", "rvs/rv4.png", "rvs/rv5.png", "rvs/rv6.png", "rvs/rv7.png", "rvs/rv8.png", "rvs/rv9.png"];
+
 
 $().ready(function() {
    $("#another").click(function(evt) {
-      var firstRand = Math.floor(Math.random() * first.length);
-      var secondRand = Math.floor(Math.random() * second.length);
+      var idx1 = Math.floor(Math.random() * first.length);
+      var idx2 = Math.floor(Math.random() * second.length);
+      var idx3 = Math.floor(Math.random() * imgs.length);
 
-      var front = first[firstRand];
-      var back = second[secondRand];
+      var front = first[idx1];
+      var back = second[idx2];
+      var img = imgs[idx3];
       var whole = front + " " + back;
+      $("#rv-img").attr("src", img);
       $("#rv_name").text(whole)
    })
    $("#another").trigger("click");
