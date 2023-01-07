@@ -5,13 +5,15 @@
 
 I moved from Denver to Portland in January of 2011 and started keeping a list of all of the restaurants I've eaten at. Why? Because I enjoy making lists. 
 
+Obvi, over the course of the intervening 12 years several of these places have closed.
+
 I left out most national fast food chains like Burger King, etc. but kept in the quick-casual chains like Chipotle. And I didn't bother keeping track of which Chipotle locations I visited.
 
 I had been keeping track of food carts too, but they're so ephemeral and whatever that I just stopped.
 
 You're probably dying to know what my favorite restaurant in Portland is. That makes total sense; you're a curious person and enjoy learning about others.
 
-Well, I'm gonna go with **Maya's Taqueria**, downtown at SW 10th & Morrison. Sweet Baby Jesus! this place is good. It's not even anything particularly unusual or original; it's just fucking good. And the people that work there are very friendly. I also really liked **Kenny & Zuke's**, but unfortunately they just closed.
+Well, I'm tentatively gonna go with **Maya's Taqueria**, downtown at SW 10th & Morrison. Sweet Baby Jesus! this place is good. It's not even anything particularly unusual or original; it's just fucking good and has a very agreeable ambience. And the people that work there are very friendly. I also really liked **Kenny & Zuke's**, but unfortunately they just closed. 
 
 Portland has a handful of Ethiopian restaurants and they're all good. Of the current batch, **Bete Lukas** is my favorite, but you can't go wrong with any of them.
 
@@ -352,4 +354,4 @@ Portland has a handful of Ethiopian restaurants and they're all good. Of the cur
 1. Pho 503 (11/12/22)
 1. Kevin & Frankys (11/19/22)
 1. The Hive (1/1/23)
-
+1. Raising Cane's Chicken Fingers (1/6/23)
