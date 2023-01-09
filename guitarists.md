@@ -9,8 +9,8 @@ In the case of some of them, I only listed the bands in which I was "into" them;
 
 ---
 
-1. Curt Kirkwood
-1. D. Boon
+1. Curt Kirkwood (Meat Puppets)
+1. D. Boon (Minutemen)
 1. Ralph Spight (Victims Family)
 3. Nels Cline (various)
 4. Deke Dickerson (Untamed Youth/solo)
