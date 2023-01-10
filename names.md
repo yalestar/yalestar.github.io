@@ -3,7 +3,7 @@
 
 ### Fake Names
 
-Back when I was developing a lot of web and I needed to create fake accounts pretty regularly, it used to amuse me immensely to come up with fake names. Note that a few of these came from a website called NOTY (Name of the Year) that appears to have gone dark, but I can't recall which. 
+Back when I was developing a lot of web and I needed to create fake accounts pretty regularly, it used to amuse me immensely to come up with fake names. Note that a few of these came from a website called NOTY (Name of the Year) that appears to have gone dark, but I can't recall which. A couple of them may have also come from Sean Tejaratchi's brilliant LiarTown site (now also defunct).
 
 * Bridley Scrotasm
 * Whiff Jacoozi
