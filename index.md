@@ -1,4 +1,4 @@
-### Funzies
+### Yalestar
 
 * [An Unordered List of Life-Changing Bands](bands.md)  
 * [Guitarists By Whom I Have Been Intruiged](guitarists.md)  
