@@ -118,6 +118,7 @@ These bands/artists have all had a hella, hella profound impact on me from about
 * Agitpop
 * Big Star
 * Excel
+* Danzig
 * The Cult
 * Charlie Hunter Trio
 * Deerhoof
