@@ -355,3 +355,4 @@ Portland has a handful of Ethiopian restaurants and they're all good. Of the cur
 1. Kevin & Frankys (11/19/22)
 1. The Hive (1/1/23)
 1. Raising Cane's Chicken Fingers (1/6/23)
+2. Pizza Jerk  (1/12/23)
