@@ -5,7 +5,7 @@
 
 Here is a growing list of guitarists that have blown my mind at one time or another. They're in no particular order, although Curt Kirkwood and D. Boon and Ralph Spight are indeed my top three.
 
-In the case of some of them, I only listed the bands in which I was "into" them; for example, I _loved_ Brian Baker in **Minor Threat** and **Dag Nasty**, but I've never heard his stuff in **Bad Religion**. I really really like Nels Cline's solo stuff and especially the stuff he did with **Mike Watt**, but I haven't really dug into his **Wilco** work yet.
+In the case of some of them, I only listed the bands in which I was "into" them; for example, I _loved_ Brian Baker in **Minor Threat** and **Dag Nasty**, but I've never heard his stuff in **Bad Religion** (since, as you know, listening to Bad Religion is a lot like listening to a leaf blower). I really really like Nels Cline's solo stuff and especially the stuff he did with **Mike Watt**, but I haven't really dug into his **Wilco** work yet.
 
 ---
 
