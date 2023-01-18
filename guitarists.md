@@ -5,7 +5,7 @@
 
 Here is a growing list of guitarists that have blown my mind at one time or another. They're in no particular order, although Curt Kirkwood and D. Boon and Ralph Spight are indeed my top three.
 
-In the case of some of them, I only listed the bands in which I was "into" them; for example, I _loved_ Brian Baker in **Minor Threat** and **Dag Nasty**, but I've never heard his stuff in **Bad Religion** (since, as you know, listening to Bad Religion is a lot like listening to a leaf blower). I really really like Nels Cline's solo stuff and especially the stuff he did with **Mike Watt**, but I haven't really dug into his **Wilco** work yet.
+In the case of some of them, I only listed the bands in which I was "into" them; for example, I _loved_ Brian Baker in **Minor Threat** and **Dag Nasty**, but I've never heard his stuff in **Bad Religion** (since, as you know, listening to Bad Religion is a lot like listening to a leaf blower). Likewise, I really really like Nels Cline's solo stuff and especially the stuff he did with **Mike Watt**, but I haven't really dug into his **Wilco** work. I'm sure it's amazing though.
 
 ---
 
@@ -32,71 +32,73 @@ In the case of some of them, I only listed the bands in which I was "into" them;
 20. Bucky Pope (Tar Babies)
 21. Ty Segall
 22. Eddie Roeser (Urge Overkill)
-23. John Kimbrough (Walt Mink)
-24. Dean Ween
-25. Gary Chester (Ed Hall)
-26. James Petralli (White Denim)
-27. Tommy Niemeyer (The Accüsed)
-28. Alex Lifeson
-29. Jack Endino
-30. Johnny Marr
-31. Andy Kerr (NoMeansNo)
-32. Rick Miller (Southern Culture on the Skids)
-33. Steve Turner (Mudhoney)
-34. Larry LaLonde
-35. East Bay Ray (Dead Kennedys)
-36. Peter Frampton
-37. Alan Anderson (PopDefect)
-38. Tom Pig (Poison Idea)
-39. Gavin MacArthur (Schlong)
-40. Duane Denison (Jesus Lizard)
-41. Angus Young
-42. Ian Williams (Don Caballero)
-43. J Mascis
-44. Jon Fine (Bitch Magnet)
-45. Brad Paisley
-46. Charlie Hunter
-47. Cory Wong
-48. Dexter Romweber (Flat Duo Jets)
-49. Dave Navarro
-50. J Robbins (Jawbox)
-51. Berton Averre (The Knack)
-52. Robby Krieger
-53. Jack White
-54. Mike Gent (Figgs)
-55. Billy Duffy
-56. Isaiah Mitchell (Earthless)
-57. Josh Homme
-58. Lindsey Buckingham
-59. Captain Sensible (Damned)
-60. Dave Diebler (House of Large Sizes)
-61. Brian Baker (Minor Threat/Dag Nasty)
-62. Tony Iommi
-63. Scotty Moore (Elvis)
-64. Ian MacKaye
-65. Joe Walsh
-66. Rick Sims (Didjits)
-67. Buzz Osbourne (Melvins)
-68. Stephen Egerton (ALL/Descendents)
-69. Andy Summers
-70. Billy Gibbons
-71. Justin Trosper (Unwound)
-72. Albert King
-73. Dick Dale
-74. Frank Zappa
-75. Slim Harpo
-76. Thurston Moore
-77. Lee Ranaldo
-78. Ed Crawford (fIREHOSE)
-79. John Fogerty
-80. Greg Ginn
-81. Tim Kerr (Big Boys)
-82. Billy Zoom (X)
-83. Stevie Ray Vaughan
-84. Dave Gonzalez (Paladins)
-85. David Immergluck (Monks of Doom)
-86. Greg Lisher (Camper van Beethoven/Monks of Doom)
-87. Bob Mould (Hüsker Dü)
-88. Link Wray
-89. Reverend Horton Heat
-90. Trey Anastasio
+23. Nash Kato (Urge Overkill)
+24. John Kimbrough (Walt Mink)
+25. Dean Ween
+26. Gary Chester (Ed Hall)
+27. James Petralli (White Denim)
+28. Tommy Niemeyer (The Accüsed)
+29. Alex Lifeson
+30. Jack Endino
+31. Johnny Marr
+32. Andy Kerr (NoMeansNo)
+33. Tom Holliston (NoMeansNo)
+34. Rick Miller (Southern Culture on the Skids)
+35. Steve Turner (Mudhoney)
+36. Larry LaLonde (Primus)
+37. East Bay Ray (Dead Kennedys)
+38. Peter Frampton
+39. Alan Anderson (PopDefect)
+40. Tom Pig (Poison Idea)
+41. Gavin MacArthur (Schlong)
+42. Duane Denison (Jesus Lizard)
+43. Angus Young
+44. Ian Williams (Don Caballero)
+45. J Mascis
+46. Jon Fine (Bitch Magnet)
+47. Brad Paisley
+48. Charlie Hunter
+49. Cory Wong
+50. Dexter Romweber (Flat Duo Jets)
+51. Dave Navarro
+52. J Robbins (Jawbox)
+53. Berton Averre (The Knack)
+54. Robby Krieger
+55. Jack White
+56. Mike Gent (Figgs)
+57. Billy Duffy
+58. Isaiah Mitchell (Earthless)
+59. Josh Homme
+60. Lindsey Buckingham
+61. Captain Sensible (Damned)
+62. Dave Diebler (House of Large Sizes)
+63. Brian Baker (Minor Threat/Dag Nasty)
+64. Tony Iommi
+65. Scotty Moore (Elvis)
+66. Ian MacKaye
+67. Joe Walsh
+68. Rick Sims (Didjits)
+69. Buzz Osbourne (Melvins)
+70. Stephen Egerton (ALL/Descendents)
+71. Andy Summers
+72. Billy Gibbons
+73. Justin Trosper (Unwound)
+74. Albert King
+75. Dick Dale
+76. Frank Zappa
+77. Slim Harpo
+78. Thurston Moore/Lee Ranaldo (I've never been able to discern who's who)
+80. Ed Crawford (fIREHOSE)
+81. John Fogerty
+82. Ichiro Agata (Melt Banana)
+83. Greg Ginn
+84. Tim Kerr (Big Boys)
+85. Billy Zoom (X)
+86. Stevie Ray Vaughan (saw him live in '89!)
+87. Dave Gonzalez (Paladins)
+88. David Immergluck (Monks of Doom)
+89. Greg Lisher (Camper van Beethoven/Monks of Doom)
+90. Bob Mould (Hüsker Dü)
+91. Link Wray
+92. Reverend Horton Heat
+93. Trey Anastasio
