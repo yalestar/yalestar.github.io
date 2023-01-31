@@ -67,7 +67,7 @@ These bands/artists have all had a hella, hella profound impact on me from about
 * All
 * Descendents
 * Schlong
-* Southern Culture
+* Southern Culture on the Skids
 * Ween
 * Jawbox
 * Unwound
@@ -145,4 +145,5 @@ These bands/artists have all had a hella, hella profound impact on me from about
 * Triumph
 * Airbourne
 * Type O Negative
+* Duran Duran
 * Nels Cline (various shit)
