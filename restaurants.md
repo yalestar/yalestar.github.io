@@ -359,3 +359,4 @@ Portland has a handful of Ethiopian restaurants and they're all good. Of the cur
 3. Babica Hen (1/28/23)
 1. Casa Maya (2/4/23)
 2. Luc Lac (2/4/23)
+3. La Provence (2/12/23)
