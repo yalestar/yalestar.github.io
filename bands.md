@@ -120,6 +120,7 @@ These bands/artists have all had a hella, hella profound impact on me from about
 * Excel
 * Danzig
 * The Cult
+* Tight Bros from Way Back When
 * Charlie Hunter Trio
 * Deerhoof
 * Kent 3
