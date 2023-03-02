@@ -44,7 +44,6 @@ These bands/artists have all had a hella, hella profound impact on me from about
 * Killing Joke
 * Head
 * Walt Mink
-* The Knack
 * XTC
 * White Denim
 * Misfits
@@ -109,6 +108,7 @@ These bands/artists have all had a hella, hella profound impact on me from about
 * Undertones
 * Supersuckers
 * Le Tigre
+* The Knack
 * Billy Childish
 * Iron Maiden
 * Rush
