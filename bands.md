@@ -113,7 +113,6 @@ These bands/artists have all had a hella, hella profound impact on me from about
 * Iron Maiden
 * Rush
 * Talking Heads
-* Duran Duran
 * Replacements
 * Kyuss
 * Agitpop
