@@ -46,6 +46,7 @@ These bands/artists have all had a hella, hella profound impact on me from about
 * Walt Mink
 * The Knack
 * XTC
+* White Denim
 * Misfits
 * Zero Boys
 * Poison Idea
