@@ -93,7 +93,6 @@ These bands/artists have all had a hella, hella profound impact on me from about
 * White Stripes
 * Lightning Bolt
 * New Pornographers
-* Big Business
 * Slayer
 * JFA
 * Satan's Pilgrims
@@ -109,6 +108,7 @@ These bands/artists have all had a hella, hella profound impact on me from about
 * Supersuckers
 * Le Tigre
 * The Knack
+* Big Business
 * Billy Childish
 * Iron Maiden
 * Rush
