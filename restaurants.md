@@ -361,3 +361,4 @@ Portland has a handful of Ethiopian restaurants and they're all good. Of the cur
 2. Luc Lac (2/4/23)
 3. La Provence (2/12/23)
 4. Elephants Deli (3/2/23)
+5. Casa de Pollo (4/1/23)
