@@ -7,7 +7,7 @@ Here is a growing list of guitarists that have blown my mind at one time or anot
 
 In the case of some of them, I only listed the bands in which I was "into" them; for example, I _loved_ Brian Baker in **Minor Threat** and **Dag Nasty**, but I've never heard his stuff in **Bad Religion** (since, as you know, listening to Bad Religion is a lot like listening to a leaf blower). Likewise, I really really like Nels Cline's solo stuff and especially the stuff he did with **Mike Watt**, but I haven't really dug into his **Wilco** work. I'm sure it's amazing though.
 
-* Denotes a guitarist that I've seen play live
+\* Denotes a guitarist that I've seen play live
 
 ---
 
@@ -34,7 +34,7 @@ In the case of some of them, I only listed the bands in which I was "into" them;
 20. Bucky Pope (Tar Babies)
 21. Ty Segall
 22. Eddie Roeser (Urge Overkill)
-23. Nash Kato (Urge Overkill) *
+23. Nash Kato (Urge Overkill) * (saw his god-awful solo tour in 2000)
 24. John Kimbrough (Walt Mink)
 25. Dean Ween
 26. Gary Chester (Ed Hall) *
