@@ -9,7 +9,7 @@ Obvi, over the course of the intervening 12 years several of these places have c
 
 I left out most national fast food chains like Burger King, etc. but kept in the quick-casual chains like Chipotle. And I didn't bother keeping track of which Chipotle locations I visited.
 
-I had been keeping track of food carts too, but they're so ephemeral and whatever that I just stopped. Also, you'll notice that most of these are in Portland proper, but I made the decision early on to keep track of restaurants in the Portland metro area (Beaverton, Lake Oswego, etc.). But not Scappoose, for some vague reason.
+I had been keeping track of food carts too, but they're so ephemeral and whatever that I just stopped. Also, you'll notice that most of these are in Portland proper, but I made the decision early on to keep track of restaurants in the entire Portland metro area (Beaverton, Lake Oswego, etc.). But not Scappoose, for some vague reason.
 
 You're probably dying to know what my favorite restaurant in Portland is. That makes total sense; you're a curious person and enjoy learning about others.
 
