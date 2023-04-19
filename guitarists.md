@@ -89,7 +89,6 @@ In the case of some of them, I only listed the bands in which I was "into" them;
 75. Dick Dale
 76. Frank Zappa
 77. Slim Harpo
-78. Thurston Moore/Lee Ranaldo (I've never been able to discern who's who)
 80. Ed Crawford (fIREHOSE) *
 81. John Fogerty
 82. Ichiro Agata (Melt Banana) *
