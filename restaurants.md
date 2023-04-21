@@ -363,3 +363,4 @@ Portland has a handful of Ethiopian restaurants and they're all good. Of the cur
 4. Elephants Deli (3/2/23)
 5. Casa de Pollo (4/1/23)
 6. UCHU Sushi (4/8/23)
+7. Bamboo Sushi  (4/20/23)
