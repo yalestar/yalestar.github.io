@@ -5,6 +5,8 @@
 
 These bands/artists have all had a hella, hella profound impact on me from about age 12 to the present.
 
+You'll probably see this list and be like, "Wow, did you completely stop listening to music in 1998 or something?" Well, not really. But I definitely stopped being deeply invested in discovering new music at a certain point. And also, once I got to my 40s and 50s, music rarely has a monumental impact on me like it did when I was like age 15-25. 
+
 ---
 
 * Minutemen
