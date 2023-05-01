@@ -365,3 +365,4 @@ Portland has a handful of Ethiopian restaurants and they're all good. Of the cur
 6. UCHU Sushi (4/8/23)
 7. Bamboo Sushi  (4/20/23)
 8. Dickey's BBQ Pit (4/30/23)
+9. Shake Shack (5/01/23)
