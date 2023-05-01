@@ -3,7 +3,7 @@
 
 ### Restaurants I Have Visited in the Portland Area Since January 2011
 
-I moved from Denver to Portland in January of 2011 and started keeping a list of all of the restaurants I've eaten at. Why? Because I enjoy making lists. 
+I moved from Denver to Portland in January of 2011 and started keeping a list of all of the restaurants I've eaten at. Why? Because I enjoy making lists. Not because I'm a _foodie_ or some such.
 
 Obvi, over the course of the intervening 12 years several of these places have closed.
 
@@ -13,7 +13,7 @@ I had been keeping track of food carts too, but they're so ephemeral and whateve
 
 You're probably dying to know what my favorite restaurant in Portland is. That makes total sense; you're a curious person and enjoy learning about others.
 
-Well, I'm tentatively gonna go with **Maya's Taqueria**, downtown at SW 10th & Morrison. Sweet Baby Jesus! this place is good. It's not even anything particularly unusual or original; it's just fucking good and has a very agreeable ambience. And the people that work there are very friendly. I also really liked **Kenny & Zuke's**, but unfortunately they just closed. 
+Well, I'm tentatively gonna go with **Maya's Taqueria**, downtown at SW 10th & Morrison. Sweet Baby Jesus this place is good. It's not even anything particularly unusual or original; it's just fucking good and has a very agreeable ambience. And the people that work there are very friendly. I also really liked **Kenny & Zuke's**, but unfortunately they just closed. 
 
 Portland has a handful of Ethiopian restaurants and they're all good. Of the current batch, **Bete Lukas** is my favorite, but you can't go wrong with any of them.
 
