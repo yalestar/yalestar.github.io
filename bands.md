@@ -100,6 +100,7 @@ You'll probably see this list and be like, "Wow, did you completely stop listeni
 * Satan's Pilgrims
 * Circle Jerks
 * Run-DMC
+* The Cult
 
 ---
 
@@ -112,6 +113,7 @@ You'll probably see this list and be like, "Wow, did you completely stop listeni
 * The Knack
 * Big Business
 * Billy Childish
+* Jay Reatard
 * Iron Maiden
 * Rush
 * Talking Heads
@@ -121,7 +123,6 @@ You'll probably see this list and be like, "Wow, did you completely stop listeni
 * Big Star
 * Excel
 * Danzig
-* The Cult
 * Tight Bros from Way Back When
 * Charlie Hunter Trio
 * Deerhoof
