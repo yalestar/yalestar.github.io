@@ -367,3 +367,4 @@ Portland has a handful of Ethiopian restaurants and they're all good. Of the cur
 8. Dickey's BBQ Pit (4/30/23)
 9. Shake Shack (5/01/23)
 10. Mississippi Pizza  (5/14/23)
+11. Portland Burger (5/18/23)
