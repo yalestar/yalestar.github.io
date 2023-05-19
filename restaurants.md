@@ -3,7 +3,7 @@
 
 ### Restaurants I Have Visited in the Portland Area Since January 2011
 
-I moved from Denver to Portland in January of 2011 and started keeping a list of all of the restaurants I've eaten at. Why? Because I enjoy making lists. Not because I'm a _foodie_ or some such.
+I moved from Denver to Portland in January of 2011 and started keeping a list of all of the restaurants I've eaten at. Why? Because I enjoy making lists. Not because I'm a _foodie_ or some such nonsense.
 
 Obvi, over the course of the intervening 12 years several of these places have closed.
 
