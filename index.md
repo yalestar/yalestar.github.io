@@ -1,4 +1,4 @@
-### Yalestar
+## Yalestar
 
 * [An Unordered List of Life-Changing Bands](bands.md)  
 * [Guitarists By Whom I Have Been Intruiged](guitarists.md)  
@@ -10,7 +10,7 @@
 * [Spam Name Sampler](spamnames.md)  
 
 
-#### Current Obsessions as of 5/22/23
+### Current Obsessions as of 5/22/23
 
 1. **Nomeansno drum parts**: Completely fascinating and inscrutable. I've been a NMN fan since 1991, but on this particular kick for about 2 whole months now. John Wright, everybody.
 2. **King Gizzard and the Lizard Wizard**: Their thrash-metal album from 2019 "Infest the Rat's Nest" is on fleek, or whatever the youngs say. Here's a live version on (the always spectacularly captured) KEXP: https://www.youtube.com/watch?v=EnmFKS2eDBA
