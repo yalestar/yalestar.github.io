@@ -18,4 +18,4 @@
 4. **Succession**: Just like everybody else, I'm obsessed with this TV show, even though I usually don't understand what's going on.
 5. **Take Your Shoes Off podcast**: Rick Glassman is all. Fascinating dude. [Check it out](https://www.youtube.com/playlist?list=PLKtcQ5JGFkgaaLPSILIlV2TzLs_lDI-Zs)
 
-Last updated: 05/19/23
+Last updated: 05/22/23
