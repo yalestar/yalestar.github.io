@@ -369,3 +369,4 @@ Portland has a handful of Ethiopian restaurants and they're all good. Of the cur
 10. Mississippi Pizza  (5/14/23)
 11. Portland Burger (5/18/23)
 12. Jersey Mike's (5/29/23)
+13. Wa Kitchen Kuu (6/04/23)
