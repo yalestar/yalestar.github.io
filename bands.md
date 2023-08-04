@@ -151,3 +151,5 @@ You'll probably see this list and be like, "Wow, did you completely stop listeni
 * Type O Negative
 * Duran Duran
 * Nels Cline (various shit)
+* King Gizzard and the Lizard Wizard
+* Otoboke Beaver
