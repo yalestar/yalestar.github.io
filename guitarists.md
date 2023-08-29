@@ -1,7 +1,7 @@
 <br>
 <a href="/">HOME</a>
 
-### Guitarists By Whom I Have Been Intruiged
+### Guitarists By Whom I Have Been Intrigued
 
 Here is a growing list of guitarists that have blown my mind at one time or another. They're in no particular order, although Curt Kirkwood and D. Boon and Ralph Spight are indeed my top three.
 
