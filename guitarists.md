@@ -102,5 +102,5 @@ In the case of some of them, I only listed the bands in which I was "into" them;
 90. Bob Mould (Hüsker Dü)
 91. Link Wray
 92. Reverend Horton Heat *
-93. Trey Anastasio
+93. Both Ed and John from Deerhoof
 94. Paul Leary (Butthole Surfers)
