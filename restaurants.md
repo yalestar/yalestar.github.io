@@ -372,3 +372,4 @@ Portland has a handful of Ethiopian restaurants and they're all good. Of the cur
 13. Wa Kitchen Kuu (6/04/23)
 14. Mi Pueblito Magico (7/13/23)
 15. Apna Chat Bhavan (7/22/23)
+16. Hat Yai (9/16/23)
