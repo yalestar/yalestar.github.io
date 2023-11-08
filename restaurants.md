@@ -374,3 +374,4 @@ Portland has a handful of Ethiopian restaurants and they're all good. Of the cur
 15. Apna Chat Bhavan (7/22/23)
 16. Hat Yai (9/16/23)
 17. Greek Bites (10/07/23)
+18. Henry Higgins Boiled Bagels (11/7/23)
