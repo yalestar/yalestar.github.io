@@ -1,7 +1,7 @@
 ## Yalestar
 
 * [An Unordered List of Life-Changing Bands](bands.md)  
-* [Guitarists By Whom I Have Been Intruiged](guitarists.md)  
+* [Guitarists By Whom I Have Been Intrigued](guitarists.md)  
 * [Drummers With Whom I Am Fascinated](drumbos.md)  
 * [Restaurants I Have Visited in the Portland Area Since January 2011](restaurants.md)  
 * [RV Name Generator](rvs.md)  
@@ -10,4 +10,4 @@
 * [Spam Name Sampler](spamnames.md)  
 
 
-Last updated: 12/29/23
+Last updated: 01/09/24
