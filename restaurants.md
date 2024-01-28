@@ -375,4 +375,5 @@ Portland has a handful of Ethiopian restaurants and they're all good. Of the cur
 16. Hat Yai (9/16/23)
 17. Greek Bites (10/07/23)
 18. Henry Higgins Boiled Bagels (11/7/23)
-19. Taqueria La Sirenita (12/20/2003)
+19. Taqueria La Sirenita (12/20/2023)
+20. Yugi Nong (1/27/2024)
