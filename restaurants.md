@@ -377,3 +377,6 @@ Portland has a handful of Ethiopian restaurants and they're all good. Of the cur
 18. Henry Higgins Boiled Bagels (11/7/23)
 19. Taqueria La Sirenita (12/20/2023)
 20. Yugi Nong (1/27/2024)
+21. Khao San  (2/8/24)
+22. Escape from New York Pizza (2/9/24)
+
