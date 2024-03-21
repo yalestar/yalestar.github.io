@@ -92,6 +92,9 @@ Drummers who I can't identify by name but have blown me away:
 * The drummer on C. W. McCall's songs "The Silverton", "Four Wheel Drive", "Wolf Creek Pass", "Classified"
 * Whoever played in Steve Miller Band on songs like "Swingtown", "Take the Money and Run", "The Joker" (Wikipedia says John King) 
  
+<br>
+<hr>
+<b>Update</b>: Long about January 2024 I became quite obsessed with late 50s/early 60s jazz drumming. So now I'm really quite smitten with Max Roach, Art Blakey, Philly Joe Jones, Elvin Jones, Buddy Rich. Some contemporary players like Ari Hoenig and Mark Guiliana are really turning my crank also. I'll probably get into Tony Williams and Billy Cobham soon, but I'm not there yet.
 
 <br>
 <a href="/">HOME</a>
