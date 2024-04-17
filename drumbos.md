@@ -73,7 +73,7 @@ These are in no particular order, except the top five; those are my for-realzies
 1. Bernard "Pretty" Purdie (session)
 1. Orestes Morfin (Bitch Magnet)
 1. Greg Clifford (White Denim)
-1. Keith Carlock (session)
+1. Keith Carlock
 1. John Schier (Last of the Juanitas) *
 1. Brian Chippendale (Lightning Bolt)
 1. Zach Hill (Hella)
