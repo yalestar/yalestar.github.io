@@ -381,5 +381,7 @@ Portland has a handful of Ethiopian restaurants and they're all good. Of the cur
 22. Escape from New York Pizza (2/9/24)
 23. Santa Fe Taqueria (3/20/24)
 24. Pizza Thief (4/3/24)
+25. Bastion (5/11/24)
+26. Mestizo (5/11/24)
 
 
