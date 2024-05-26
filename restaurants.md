@@ -383,5 +383,6 @@ Portland has a handful of Ethiopian restaurants and they're all good. Of the cur
 24. Pizza Thief (4/3/24)
 25. Bastion (5/11/24)
 26. Mestizo (5/11/24)
+27. Straight From New York Pizza (5/24/24)
 
 
