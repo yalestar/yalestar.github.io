@@ -9,10 +9,10 @@ These are in no particular order, except the top five; those are my for-realzies
 
 ---
 
+1. John Wright (NoMeansNo/Dead Bob) * 
 1. George Hurley (Minutemen/fIREHOSE) *
 1. Bill Stevenson (ALL/Descendents) *
 1. Damon Che (Don Caballero) * 
-1. John Wright (NoMeansNo) * 
 1. Tim Solyan (Victim's Family) *
 1. Mac McNeilly (Jesus Lizard) *
 1. Stew Copeland (Police)
