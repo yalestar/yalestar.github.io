@@ -35,6 +35,7 @@ You'll probably see this list and be like, "Wow, did you completely stop listeni
 * Jane's Addiction
 * Smog
 * Motorhead
+* Black Sabbath
 * Devo
 * Monks of Doom
 * Camper van Beethoven
