@@ -117,6 +117,7 @@ You'll probably see this list and be like, "Wow, did you completely stop listeni
 * Jay Reatard
 * Iron Maiden
 * Rush
+* Excel
 * Talking Heads
 * Replacements
 * Kyuss
