@@ -138,6 +138,8 @@ You'll probably see this list and be like, "Wow, did you completely stop listeni
 * Scratch Acid
 * Beastie Boys
 * The Clash
+* Exodus
+* Mastodon
 * Royal Trux
 * Rezillos
 * Queers
