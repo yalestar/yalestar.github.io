@@ -120,6 +120,7 @@ You'll probably see this list and be like, "Wow, did you completely stop listeni
 * Talking Heads
 * Replacements
 * Kyuss
+* Primus
 * Agitpop
 * Big Star
 * Excel
