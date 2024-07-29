@@ -85,9 +85,10 @@ These are in no particular order, except the top five; those are my for-realzies
 1. Joey Waronker (Walt Mink)
 1. Spit Stix (Fear/Nasalrod)
 1. Chris Mars (Replacements)
-2. Katherina Bornefeld (The Ex)
-3. Brendan Canty (Fugazi)
-4. Clem Burke (Blondie)
+2. Martin Chambers (Pretenders)
+3. Katherina Bornefeld (The Ex)
+4. Brendan Canty (Fugazi)
+5. Clem Burke (Blondie)
 
 
 Drummers who I can't identify by name but have blown me away:
