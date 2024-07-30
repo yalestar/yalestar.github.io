@@ -43,7 +43,7 @@ In the case of some of them, I only listed the bands in which I was "into" them;
 29. Alex Lifeson
 30. Jack Endino *
 31. Johnny Marr
-32. Jerry Garcia (Gatefold Tedd)
+32. Jerry Garcia (Gayfold Redd)
 33. Andy Kerr (NoMeansNo) *
 34. Tom Holliston (NoMeansNo) *
 35. Rick Miller (Southern Culture on the Skids) *
