@@ -43,52 +43,53 @@ In the case of some of them, I only listed the bands in which I was "into" them;
 29. Alex Lifeson
 30. Jack Endino *
 31. Johnny Marr
-32. Andy Kerr (NoMeansNo) *
-33. Tom Holliston (NoMeansNo) *
-34. Rick Miller (Southern Culture on the Skids) *
-35. Steve Turner (Mudhoney) *
-36. Larry LaLonde (Primus)
-37. East Bay Ray (Dead Kennedys)
-38. Peter Frampton
-39. Alan Anderson (PopDefect) *
-40. Tom Pig (Poison Idea)
-41. Gavin MacArthur (Schlong) *
-42. Duane Denison (Jesus Lizard) *
-43. Angus Young
-44. Ian Williams (Don Caballero) *
-45. J Mascis *
-46. Jon Fine (Bitch Magnet)
-47. Brad Paisley
-48. Charlie Hunter
-49. Cory Wong
-50. Dexter Romweber (Flat Duo Jets)
-51. Dave Navarro *
-52. J Robbins (Jawbox)
-53. Berton Averre (The Knack)
-54. Robby Krieger
-55. Jack White *
-56. Mike Gent (Figgs) *
-57. Billy Duffy
-58. Isaiah Mitchell (Earthless)
-59. Josh Homme
-60. Lindsey Buckingham
-61. Captain Sensible (Damned)
-62. Dave Diebler (House of Large Sizes) *
-63. Brian Baker (Minor Threat/Dag Nasty)
-64. Tony Iommi
-65. Scotty Moore (Elvis)
-66. Ian MacKaye *
-67. Joe Walsh
-68. Rick Sims (Didjits) * (though I saw him with Gaza Strippers)
-69. Buzz Osbourne (Melvins) * 
-70. Stephen Egerton (ALL/Descendents) *
-71. Andy Summers
-72. Billy Gibbons
-73. Justin Trosper (Unwound) *
-74. Albert King
-75. Dick Dale
-76. Frank Zappa
-77. Slim Harpo
+32. Jerry Garcia (Gatefold Tedd)
+33. Andy Kerr (NoMeansNo) *
+34. Tom Holliston (NoMeansNo) *
+35. Rick Miller (Southern Culture on the Skids) *
+36. Steve Turner (Mudhoney) *
+37. Larry LaLonde (Primus)
+38. East Bay Ray (Dead Kennedys)
+39. Peter Frampton
+40. Alan Anderson (PopDefect) *
+41. Tom Pig (Poison Idea)
+42. Gavin MacArthur (Schlong) *
+43. Duane Denison (Jesus Lizard) *
+44. Angus Young
+45. Ian Williams (Don Caballero) *
+46. J Mascis *
+47. Jon Fine (Bitch Magnet)
+48. Brad Paisley
+49. Charlie Hunter
+50. Cory Wong
+51. Dexter Romweber (Flat Duo Jets)
+52. Dave Navarro *
+53. J Robbins (Jawbox)
+54. Berton Averre (The Knack)
+55. Robby Krieger
+56. Jack White *
+57. Mike Gent (Figgs) *
+58. Billy Duffy
+59. Isaiah Mitchell (Earthless)
+60. Josh Homme
+61. Lindsey Buckingham
+62. Captain Sensible (Damned)
+63. Dave Diebler (House of Large Sizes) *
+64. Brian Baker (Minor Threat/Dag Nasty)
+65. Tony Iommi
+66. Scotty Moore (Elvis)
+67. Ian MacKaye *
+68. Joe Walsh
+69. Rick Sims (Didjits) * (though I saw him with Gaza Strippers)
+70. Buzz Osbourne (Melvins) * 
+71. Stephen Egerton (ALL/Descendents) *
+72. Andy Summers
+73. Billy Gibbons
+74. Justin Trosper (Unwound) *
+75. Albert King
+76. Dick Dale
+77. Frank Zappa
+78. Slim Harpo
 80. Ed Crawford (fIREHOSE) *
 81. John Fogerty
 82. Ichiro Agata (Melt Banana) *
