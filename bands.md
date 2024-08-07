@@ -158,4 +158,4 @@ You'll probably see this list and be like, "Wow, did you completely stop listeni
 * Duran Duran
 * Nels Cline (various shit)
 * King Gizzard and the Lizard Wizard
-* Otoboke Beaver
+* Frankie and the Witch Fingers
