@@ -79,6 +79,7 @@ You'll probably see this list and be like, "Wow, did you completely stop listeni
 * Jesus Lizard
 * Melvins
 * Ed Hall
+* Squirrel Bait
 * Fu Manchu
 * Universal Congress Of
 * PopDefect
