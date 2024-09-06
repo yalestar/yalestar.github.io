@@ -386,5 +386,6 @@ Portland has a handful of Ethiopian restaurants and they're all good. Of the cur
 27. Straight From New York Pizza (5/24/24)
 28. Living Häus Beer Company (7/27/24)
 29. Elden's (8/10/2024)
+30. Boxcar Pizza (8/31/2024)
 
 
