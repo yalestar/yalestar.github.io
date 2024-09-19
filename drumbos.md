@@ -89,6 +89,7 @@ These are in no particular order, except the top five; those are my for-realzies
 3. Katherina Bornefeld (The Ex)
 4. Brendan Canty (Fugazi)
 5. Clem Burke (Blondie)
+6. Zigaboo Modeliste (Meters)
 
 
 Drummers who I can't identify by name but have blown me away:
