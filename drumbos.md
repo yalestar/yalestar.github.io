@@ -12,10 +12,10 @@ These are in no particular order, except the top five; those are my for-realzies
 1. John Wright (NoMeansNo/Dead Bob) * 
 1. George Hurley (Minutemen/fIREHOSE) *
 1. Bill Stevenson (ALL/Descendents) *
-1. Damon Che (Don Caballero) * 
+1. Damon Che (Don Caballero) *
+2. Stew Copeland (Police)
 1. Tim Solyan (Victim's Family) *
 1. Mac McNeilly (Jesus Lizard) *
-1. Stew Copeland (Police)
 1. Jim Kimball (Mule/Denison-Kimball Trio) *
 1. Bruce Gary (The Knack)
 1. Earl Hudson (Bad Brains) *
@@ -34,7 +34,7 @@ These are in no particular order, except the top five; those are my for-realzies
 1. Sebastian Thomson (Trans Am)
 1. Dan Peters (Mudhoney) *
 1. Dave Mello (Schlong/Operation Ivy) *
-1. Dave Gleza (MyName/Victim's Family) *
+1. Dave Gleza (My Name/Victim's Family) *
 1. Nicky Scott (PopDefect) *
 1. Chris Pederson (Camper van Beethoven/Monks of Doom)
 1. Sara Lund (Unwound) *
