@@ -69,7 +69,7 @@ These are in no particular order, except the top five; those are my for-realzies
 1. Nate Smith (Vulfpeck/Fearless Flyers)
 1. Dave Berg (House of Large Sizes) *
 1. Howie Klein (Poster Children) *
-1. Topper Headon (Clash)
+1. Topper Headon (The Clash)
 1. Louis Cole (solo, Knower)
 1. Bernard "Pretty" Purdie (session)
 1. Orestes Morfin (Bitch Magnet)
@@ -81,24 +81,21 @@ These are in no particular order, except the top five; those are my for-realzies
 1. Simon Allen (New Mastersounds) *
 1. Brann Dailor (Mastodon)
 2. Bill Ward (Black Sabbath)
-3. Mark Guiliana
 1. Joey Waronker (Walt Mink)
 1. Spit Stix (Fear/Nasalrod)
 1. Chris Mars (Replacements)
 2. Martin Chambers (Pretenders)
 3. Katherina Bornefeld (The Ex)
-4. Brendan Canty (Fugazi)
-5. Clem Burke (Blondie)
-6. Zigaboo Modeliste (Meters)
+4. Levon Helm (The Band)
+5. Brendan Canty (Fugazi)
+6. Clem Burke (Blondie)
+7. Zigaboo Modeliste (Meters)
 
 
 Drummers who I can't identify by name but have blown me away:
 * The drummer on C. W. McCall's songs "The Silverton", "Four Wheel Drive", "Wolf Creek Pass", "Classified"
 * Whoever played in Steve Miller Band on songs like "Swingtown", "Take the Money and Run", "The Joker" (Wikipedia says John King) 
  
-<br>
-<hr>
-<b>Update</b>: Long about January 2024 I became quite obsessed with late 50s/early 60s jazz drumming. So now I'm really quite smitten with Max Roach, Art Blakey, Philly Joe Jones, Elvin Jones, Buddy Rich. Some contemporary players like Ari Hoenig and Mark Guiliana are really turning my crank also. I'll probably get into Tony Williams and Billy Cobham soon, but I'm not there yet.
 
 <br>
 <a href="/">HOME</a>
