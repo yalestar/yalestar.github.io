@@ -21,7 +21,7 @@ These are in no particular order, except the top five; those are my for-realzies
 1. Earl Hudson (Bad Brains) *
 1. Brant Bjork (Fu Manchu) *
 1. Scott Reeder (Fu Manchu) *
-1. Buddy Rich
+1. Don Hudgens (Plaid Retina)
 1. Tatsuya Yoshida (Ruins) 
 1. Dave Lombardo (Slayer) * (saw him with Fantômas)
 1. Matt Cameron (Soundgarden) *
