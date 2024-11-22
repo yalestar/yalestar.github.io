@@ -86,6 +86,7 @@ You'll probably see this list and be like, "Wow, did you completely stop listeni
 * PopDefect
 * New Mastersounds
 * Didjits
+* Operation Ivy
 * Untamed Youth
 * Dicks
 * Charlie Hunter Trio
@@ -125,6 +126,7 @@ You'll probably see this list and be like, "Wow, did you completely stop listeni
 * Kyuss
 * Primus
 * Agitpop
+* Psychedelic Furs
 * Big Star
 * Excel
 * Danzig
@@ -150,7 +152,6 @@ You'll probably see this list and be like, "Wow, did you completely stop listeni
 * Poster Children
 * Groovie Ghoulies
 * Ministry
-* Operation Ivy
 * Municipal Waste
 * Screaming Trees
 * Mr. T Experience
@@ -158,6 +159,6 @@ You'll probably see this list and be like, "Wow, did you completely stop listeni
 * Airbourne
 * Type O Negative
 * Duran Duran
-* Nels Cline (various shit)
+* Nels Cline (various endeavors)
 * King Gizzard and the Lizard Wizard
 * Frankie and the Witch Fingers
