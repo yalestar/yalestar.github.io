@@ -55,6 +55,7 @@ You'll probably see this list and be like, "Wow, did you completely stop listeni
 * D.R.I.
 * Ruins
 * Fishbone
+* Fugazi
 * The Cult
 * Naked Raygun
 * Skin Yard
