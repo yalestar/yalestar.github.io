@@ -14,6 +14,7 @@
 1. Geddy Lee (Rush)
 1. Daniel House (Skin Yard)
 1. Pierre Kezdy (Naked Raygun)
+2. Laura Leezy (Khruangbin)
 1. Brad Davis (Fu Manchu)
 1. Vern Rumsey (Unwound)
 1. David Wm. Sims (Jesus Lizard)
