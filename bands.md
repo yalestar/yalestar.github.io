@@ -153,6 +153,7 @@ You'll probably see this list and be like, "Wow, did you completely stop listeni
 * Groovie Ghoulies
 * Ministry
 * Municipal Waste
+* Makers
 * Screaming Trees
 * Mr. T Experience
 * Triumph
