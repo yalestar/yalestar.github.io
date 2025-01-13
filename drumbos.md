@@ -48,6 +48,7 @@ These are in no particular order, except the top five; those are my for-realzies
 1. Russell Simins (Jon Spencer Blues Explosion)
 2. Peter Moffett (Government Issue)
 1. Neil Peart (Rush)
+2. Hugo Burnham (Gang of Four)
 1. Ted Miller (Satan's Pilgrims) *
 1. Michael Dahlquist (Silkworm) *
 1. Barrett Martin (Skin Yard) *
