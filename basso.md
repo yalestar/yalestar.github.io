@@ -17,6 +17,7 @@
 2. Laura Leezy (Khruangbin)
 1. Brad Davis (Fu Manchu)
 1. Vern Rumsey (Unwound)
+2. Mike Mills (R.E.M.)
 1. David Wm. Sims (Jesus Lizard)
 2. Jean-Jacques Burnel (Stranglers)
 1. Charlie Hutchinson (PopDefect)
